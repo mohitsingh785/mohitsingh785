@@ -1,56 +1,59 @@
-### Hi there 👋
+# Mohit Singh
 
+Hello there! I'm Mohit, a passionate Android Developer from Rewa, Madhya Pradesh. I'm all about crafting efficient and innovative software solutions. Currently, I'm making waves at Agentinsights.live, where I lead the development of cutting-edge customer analytics tools.
 
+## 🌐 Connect with Me
 
-###
+- Email: [mohitsinghchandel785@gmail.com](mailto:mohitsinghchandel785@gmail.com)
+- LinkedIn: [Mohit Singh](https://www.linkedin.com/in/mohit-singh-37966720b/)
+- GitHub: [mohitsingh785](https://github.com/mohitsingh785)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+## 🎓 Education
 
-###
+- **Bachelor of Science in Computer Science** - Government Engineering College (REC), Rewa (Dec 2020 - May 2024)
+  - CGPA: 7.63
+- **CBSE Board** - Kendriya Vidyalaya, Rewa (2018 - 2020)
+  - Percentage: 84.8%
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 💼 Experience
 
-###
+### Agentinsights.live
+- **Position:** Android Developer (Nov 2023 - Present), Delhi, Delhi
+- **Achievements:** Lead developer on "Agentinsights Official App", enhancing data processing and actionable insights.
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
+### NextGen Techno Ventures Pvt Ltd
+- **Position:** Java Android Developer (July 2023 - September 2023), Mumbai, Maharashtra
+- **Achievements:** Led the development of "Filter App", focusing on user experience and performance optimization.
 
-###
+### Rec Pedia
+- **Position:** Android Developer (July 2021 - July 2022), Rewa, M.P
+- **Achievements:** Developed and maintained the REC Pedia app, improving college students' access to academic resources.
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
+## 🛠 Skills
 
-###
+- **Languages:** Core Java, Kotlin, SQL, XML, Dart
+- **Developer Tools:** VS Code, Eclipse, Pycharm, Jupyter Notebook, Android Studio, Apache Netbeans, IntelliJ IDEA
+- **Frameworks:** Flutter
+- **Familiar:** Python
+- **Coursework:** Data Structures, Algorithms, GitHub, Problem Solving, Database Management System, Firebase, OOPs Concepts
 
-<br clear="both">
+## 🏆 Achievements
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+- Completed SQL 50 batch on LeetCode
+- Internships at REC Pedia and NextGen Techno Ventures Pvt Ltd
+- Java Programming Certification from Udemy
+- 56th position on CodeChef Starter 103
 
-###...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Programming Profiles
+
+- **GeeksforGeeks:** [850+ Problems Solved](https://www.geeksforgeeks.org/user/mohitsinghchandel785)
+- **LeetCode:** [600 Problems Solved](https://leetcode.com/mohitsinghchandel785)
+- **HackerRank:** [5 Star in Java](https://www.hackerrank.com/mohitsinghchand1)
+- **CodeChef:** [2 Star](https://www.codechef.com/users/mohit04022002)
+
+## 📱 Recreational Projects
+
+- **REC Pedia App** (GitHub — Play Store): An Android app for college students to access academic information. Achieved 500+ downloads.
+- **Quiz and Exam System** (GitHub): A Java application for automated result calculation and online exams.
+
+Feel free to reach out to me for collaborations or just a chat about technology and development!
