@@ -46,8 +46,8 @@ Hello there! I'm Mohit, a passionate Android Developer from Rewa, Madhya Pradesh
 
 ## 📚 Programming Profiles
 
-- **GeeksforGeeks:** [850+ Problems Solved](https://www.geeksforgeeks.org/user/mohitsinghchandel785)
-- **LeetCode:** [600 Problems Solved](https://leetcode.com/mohitsinghchandel785)
+- **GeeksforGeeks:** [150+ Problems Solved](https://www.geeksforgeeks.org/user/mohitsinghchandel785)
+- **LeetCode:** [400 Problems Solved](https://leetcode.com/mohitsinghchandel785)
 - **HackerRank:** [5 Star in Java](https://www.hackerrank.com/mohitsinghchand1)
 - **CodeChef:** [2 Star](https://www.codechef.com/users/mohit04022002)
 
