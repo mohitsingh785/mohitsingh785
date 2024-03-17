@@ -11,7 +11,7 @@ Hello there! I'm Mohit, a passionate Android Developer from Rewa, Madhya Pradesh
 ## 🎓 Education
 
 - **Bachelor of Science in Computer Science** - Government Engineering College (REC), Rewa (Dec 2020 - May 2024)
-  - CGPA: 7.63
+  - CGPA: 7.78
 - **CBSE Board** - Kendriya Vidyalaya, Rewa (2018 - 2020)
   - Percentage: 84.8%
 
