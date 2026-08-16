@@ -16,7 +16,7 @@ Hello there! I'm Mohit, a passionate Java Backend Developer based in Madhya Prad
 ## Experience
 
 ### Tata Consultancy Services
-- **Position:** Spring Boot Developer – PG&E Energy Insights (Jul 2024 – Present), Rewa, India
+- **Position:** Spring Boot Developer – PG&E Energy Insights (Jul 2024 – Present), Kolkata, India
 - **Achievements:** 
   - Developed and optimized RESTful APIs on a Java 17 / Spring Boot microservices platform handling energy account management, rebates, and CARE/FERA discount programs.
   - Refactored CARE and FERA discount calculation logic, resolving count discrepancies across **50,000+ monthly records** and eliminating recurring business-rule defects in discount decisions.
