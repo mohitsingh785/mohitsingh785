@@ -52,5 +52,3 @@ Hello there! I'm Mohit, a passionate Java Backend Developer based in Madhya Prad
 
 - **LeetCode:** [900+ Problems Solved](https://leetcode.com/mohitsinghchandel785)
 - **GeeksforGeeks:** [850+ Problems Solved](https://www.geeksforgeeks.org/user/mohitsinghchandel785)
-- **HackerRank:** 5 Stars in Java
-- **Certifications:** Java Programming (Udemy)
